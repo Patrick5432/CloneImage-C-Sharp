@@ -1,0 +1,15 @@
+/home/user/WFoijasf/bin/Debug/net7.0/WFoijasf
+/home/user/WFoijasf/bin/Debug/net7.0/WFoijasf.deps.json
+/home/user/WFoijasf/bin/Debug/net7.0/WFoijasf.runtimeconfig.json
+/home/user/WFoijasf/bin/Debug/net7.0/WFoijasf.dll
+/home/user/WFoijasf/bin/Debug/net7.0/WFoijasf.pdb
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.csproj.AssemblyReference.cache
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.AssemblyInfoInputs.cache
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.AssemblyInfo.cs
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.csproj.CoreCompileInputs.cache
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.dll
+/home/user/WFoijasf/obj/Debug/net7.0/refint/WFoijasf.dll
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.pdb
+/home/user/WFoijasf/obj/Debug/net7.0/WFoijasf.genruntimeconfig.cache
+/home/user/WFoijasf/obj/Debug/net7.0/ref/WFoijasf.dll
